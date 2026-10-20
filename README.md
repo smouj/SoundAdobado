@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-6cb6ff)](LICENSE-APACHE)
 [![Rust](https://img.shields.io/badge/Rust-1.95%2B-ff7a59)](Cargo.toml)
 [![Status](https://img.shields.io/badge/status-early%20alpha-d69e2e)](#estado)
+[![Stars](https://img.shields.io/github/stars/smouj/SoundAdobado?style=flat&color=FF5C5C)](https://github.com/smouj/SoundAdobado/stargazers)
 [![Adobado Kit](https://img.shields.io/badge/Adobado%20Kit-hub-b8f34a)](https://github.com/smouj/Adobado_Kit)
 
 > **Alpha temprana.** Codigo importado y rebrandeado desde SoundCraft. Build de Windows correcto y app abierta/probada el 20/10/2026. Falta release y prueba de edicion de audio real.
