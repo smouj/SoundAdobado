@@ -26,9 +26,9 @@
 
     <Icon Id="SoundcraftIcon.ico" SourceFile="$(var.IconPath)" />
     <Property Id="ARPPRODUCTICON" Value="SoundcraftIcon.ico" />
-    <Property Id="ARPURLINFOABOUT" Value="https://getartcraft.com/apps/soundcraft" />
-    <Property Id="ARPURLUPDATEINFO" Value="https://getartcraft.com/apps/soundcraft" />
-    <Property Id="ARPHELPLINK" Value="https://discord.gg/artcraft" />
+    <Property Id="ARPURLINFOABOUT" Value="https://github.com/smouj/SoundAdobado" />
+    <Property Id="ARPURLUPDATEINFO" Value="https://github.com/smouj/SoundAdobado/releases" />
+    <Property Id="ARPHELPLINK" Value="https://github.com/smouj/SoundAdobado/issues" />
 
     <StandardDirectory Id="ProgramFiles6432Folder">
       <Directory Id="INSTALLFOLDER" Name="SoundCraft" />

@@ -624,8 +624,8 @@ fn about(app: &mut SoundApp, ctx: &egui::Context) {
                 ui.label(format!("Version {}", env!("CARGO_PKG_VERSION")));
                 ui.label("An open-source digital audio workstation from the Adobado Kit team.");
                 ui.label("Dual-licensed MIT OR Apache-2.0. Made with Rust and egui.");
-                ui.hyperlink_to("getartcraft.com/apps/soundcraft", "https://github.com/smouj/SoundAdobado");
-                ui.hyperlink_to("Join us on Discord", "https://github.com/smouj/Adobado_Kit");
+                ui.hyperlink_to("SoundAdobado project and downloads", "https://github.com/smouj/SoundAdobado");
+                ui.hyperlink_to("Get help and report an issue", "https://github.com/smouj/SoundAdobado/issues");
             }
         }
     });

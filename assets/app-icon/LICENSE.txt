@@ -1,0 +1,5 @@
+Official Adobado product icon licence
+
+The official Adobado icon artwork in this repository was created by @smouj, who owns the artwork and supplied it in Adobado_Icon_Pack_Final.zip. The copyright holder authorizes redistribution of the icon artwork under either the MIT License or the Apache License, Version 2.0, at the recipient’s option.
+
+The complete licence texts are in LICENSE-MIT.txt and LICENSE-APACHE.txt. This icon artwork is independent of the upstream application logo and is not derived from Adobe products.
