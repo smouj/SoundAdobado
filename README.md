@@ -1,4 +1,5 @@
 # SoundAdobado
+![SoundAdobado](docs/screenshot.png)
 
 <p align="center"><img src="assets/adobado/icon.png" width="104" alt="SoundAdobado"></p>
 
@@ -9,7 +10,7 @@
 [![Status](https://img.shields.io/badge/status-early%20alpha-d69e2e)](#estado)
 [![Adobado Kit](https://img.shields.io/badge/Adobado%20Kit-hub-b8f34a)](https://github.com/smouj/Adobado_Kit)
 
-> **Alpha temprana.** Codigo importado y rebrandeado desde SoundCraft. Build de Windows y prueba de edicion pendientes. No se presenta como app disponible ni como sustituto profesional.
+> **Alpha temprana.** Codigo importado y rebrandeado desde SoundCraft. Build de Windows correcto y app abierta/probada el 20/10/2026. Falta release y prueba de edicion de audio real.
 >
 > Proyecto independiente. No afiliado a ArtCraft ni a Adobe.
 
@@ -17,7 +18,8 @@
 
 - Codigo fuente: importado desde soundcraft en el commit 25d52c646aea780c8076ff966076f994ad256221.
 - Rebranding visible: nombre, enlaces, README, avisos y documentacion.
-- Pendiente: compilar en Windows, probar abrir/editar/exportar y publicar release.
+- Build de Windows: OK. App abierta y probada.
+- Pendiente: probar edicion de audio real y publicar release.
 
 ## Build
 
