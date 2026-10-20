@@ -1,5 +1,4 @@
 # SoundAdobado
-![SoundAdobado](docs/screenshot.png)
 
 <p align="center"><img src="assets/adobado/icon.png" width="104" alt="SoundAdobado"></p>
 
@@ -13,6 +12,8 @@
 > **Alpha temprana.** Codigo importado y rebrandeado desde SoundCraft. Build de Windows correcto y app abierta/probada el 20/10/2026. Falta release y prueba de edicion de audio real.
 >
 > Proyecto independiente. No afiliado a ArtCraft ni a Adobe.
+
+![SoundAdobado](docs/screenshot.png)
 
 ## Estado
 
