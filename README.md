@@ -6,22 +6,27 @@
 
 [![License](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-6cb6ff)](LICENSE-APACHE)
 [![Rust](https://img.shields.io/badge/Rust-1.95%2B-ff7a59)](Cargo.toml)
-[![Status](https://img.shields.io/badge/status-early%20alpha-d69e2e)](#estado)
-[![Stars](https://img.shields.io/github/stars/smouj/SoundAdobado?style=flat&color=FF5C5C)](https://github.com/smouj/SoundAdobado/stargazers)
+[![Windows build](https://github.com/smouj/SoundAdobado/actions/workflows/windows-build.yml/badge.svg?branch=main)](https://github.com/smouj/SoundAdobado/actions/workflows/windows-build.yml)
+[![Estado](https://img.shields.io/badge/status-Windows%20smoke%20test-6cb6ff)](#estado)
+[![Estrellas](https://img.shields.io/github/stars/smouj/SoundAdobado?style=flat&color=B8F34A)](https://github.com/smouj/SoundAdobado/stargazers)
 [![Adobado Kit](https://img.shields.io/badge/Adobado%20Kit-hub-b8f34a)](https://github.com/smouj/Adobado_Kit)
 
-> **Alpha temprana.** Codigo importado y rebrandeado desde SoundCraft. Build de Windows correcto y app abierta/probada el 20/10/2026. Falta release y prueba de edicion de audio real.
+> **Prueba de humo superada en Windows (20/10/2026).** Build de Windows correcta y app instalada y abierta en el PC. La prueba de abrir, modificar y exportar un archivo real sigue pendiente; el proyecto continúa en alpha.
 >
 > Proyecto independiente. No afiliado a ArtCraft ni a Adobe.
 
-![SoundAdobado](docs/screenshot.png)
+![SoundAdobado — captura real de la aplicación](docs/screenshot.png)
+
+<sub>Captura real de la aplicación en Windows.</sub>
 
 ## Estado
 
-- Codigo fuente: importado desde soundcraft en el commit 25d52c646aea780c8076ff966076f994ad256221.
-- Rebranding visible: nombre, enlaces, README, avisos y documentacion.
-- Build de Windows: OK. App abierta y probada.
-- Pendiente: probar edicion de audio real y publicar release.
+- **Build de Windows:** correcto en GitHub Actions; consulta el [workflow actual](https://github.com/smouj/SoundAdobado/actions/workflows/windows-build.yml).
+- **Prueba manual:** instalada y abierta en Windows el 20/10/2026.
+- **Flujo funcional:** abrir, modificar y exportar un archivo real sigue pendiente.
+- **Disponibilidad:** alpha; todavía no se declara lista para uso general.
+- **Release pública:** [v0.1.0-alpha.1](https://github.com/smouj/SoundAdobado/releases/tag/v0.1.0-alpha.1) se publicó antes de la identidad visual actual y conserva el icono anterior. El ZIP se actualizará después de verificar el icono integrado y la prueba funcional.
+- **Commit de origen:** 25d52c646aea780c8076ff966076f994ad256221.
 
 ## Build
 
