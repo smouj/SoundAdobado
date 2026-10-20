@@ -10,8 +10,7 @@ Assets must be original, public domain (CC0) or permissively licensed. See `AGEN
 
 All UI icons (tools, transport, track buttons) are drawn procedurally in
 `crates/ui-egui/src/icons.rs` by the SoundCraft contributors (MIT OR Apache-2.0). No UI icon image
-files are used. The app icon (`assets/app-icon/`, a singing nightingale drawn as original SVG by
-the SoundCraft contributors) is listed under Files below.
+files are used. The app icon (`assets/app-icon/`) is the official Adobado Sound product mark supplied by the project owner; its source and licence are listed under Files below.
 
 ## Audio
 
@@ -29,19 +28,16 @@ and, at runtime, the operating system's own UI fonts when available (never redis
 
 | Path | Author | Source | License |
 |---|---|---|---|
-| `docs/brand/artcraft-logo.svg` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms (`docs/brand/LICENSE-brand.txt`) |
-| `docs/brand/artcraft-logo.png` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-logo-white.svg` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-logo-white.png` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-mark.svg` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-mark.png` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-mark-black.svg` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `docs/brand/artcraft-mark-black.png` | ArtCraft Team | craftrules `assets/brand/` | ArtCraft brand terms |
-| `assets/app-icon/icon.svg` | SoundCraft contributors | original (hand-placed SVG paths; placeholder app icon) | MIT OR Apache-2.0 |
+| `docs/screenshot.png` | @smouj | Original screenshot captured from SoundAdobado; empty session workspace with the Setup menu open, no third-party application UI | MIT OR Apache-2.0 |
+| `assets/adobado/icon.png` | @smouj | Official Adobado icon pack supplied by the project owner; SHA256SUMS.txt verified | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/adobado/icon.ico` | @smouj | Official Adobado icon pack supplied by the project owner; SHA256SUMS.txt verified | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `docs/brand/adobado-logo.png` | @smouj | Byte-for-byte copy of the canonical PNG from the official icon pack | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `docs/brand/adobado-logo-white.png` | @smouj | Byte-for-byte copy of the canonical PNG from the official icon pack | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/app-icon/icon.svg` | @smouj (project owner) | Official Adobado Sound icon; SVG packaging wrapper embeds the verified 512 px PNG from Adobado_Icon_Pack_Final.zip | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
 | `packaging/macos/dmg/` (all files) | @XusBadia | original (macOS DMG window background and layout, from the app icon; see `packaging/macos/dmg/README.md`) | MIT OR Apache-2.0 |
-| `assets/app-icon/soundcraft-1024.png` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
-| `assets/app-icon/soundcraft-macos-512.png` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
-| `assets/app-icon/soundcraft.icns` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
-| `assets/app-icon/soundcraft.ico` | SoundCraft contributors | original, rendered from `icon.svg` | MIT OR Apache-2.0 |
-| `assets/app-icon/hicolor/` | SoundCraft contributors | original, rendered from `icon.svg` (16–512 px PNGs and the scalable SVG) | MIT OR Apache-2.0 |
+| `assets/app-icon/soundcraft-1024.png` | @smouj (project owner) | Original PNG from Adobado_Icon_Pack_Final.zip (SHA256SUMS.txt verified) | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/app-icon/soundcraft-macos-512.png` | @smouj (project owner) | Original 512 px PNG from Adobado_Icon_Pack_Final.zip | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/app-icon/soundcraft.icns` | @smouj (project owner) | original owner-supplied Adobado icon, rendered to the required platform sizes | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/app-icon/soundcraft.ico` | @smouj (project owner) | original owner-supplied Adobado icon, rendered to the required platform sizes | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
+| `assets/app-icon/hicolor/` | @smouj (project owner) | original owner-supplied Adobado icon, rendered to the required platform sizes | MIT OR Apache-2.0 (`assets/app-icon/LICENSE.txt`) |
 | `docs/images/` | SoundCraft contributors | screenshots of SoundCraft rendered from the synthesised demo session | MIT OR Apache-2.0 |
